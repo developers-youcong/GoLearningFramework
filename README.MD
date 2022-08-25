@@ -3,8 +3,8 @@
 基于Go语言相关的学习与分享
 
 ## 目录
-- 1.[Basic (基础)](Basic/README.md)
-- 2.[Web (Web基础开发)](Web/README.md)
+- 1.[Basic (基础)](./Basic/)
+- 2.[Web (Web基础开发)](./Web/)
 - 3.Framework (框架层面)
 
 
